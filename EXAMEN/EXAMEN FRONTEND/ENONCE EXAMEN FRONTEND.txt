@@ -1,0 +1,98 @@
+					ENONCE EXAMEN FRONTEND du 28/04/2020
+
+
+Objectif : Réaliser le CV fournit en PDF à partir du répertoire EXAMEN FRONTEND qui contient :
+
+I) Contenu du répertoire EXAMEN FRONTEND
+
+1) le repertoire images avec les fichiers suivants :
+
+photo_1_CV.png
+photo_2_CV.jpeg
+sk1.jpeg
+sk2.png
+sk3.png
+sk4.png
+adresse1.jpeg
+adresse2.jpeg
+adresse3.png
+adresse4.png
+
+2) le repertoire logo avecles fichiers suivants :
+
+logo-html50.png
+logo-css50.png
+logo-js50.png
+logo-bootstrap50.png
+logo-jquery50.png
+
+
+II) Créer dans le répertoire EXAMEN FRONTEND un fichier index.html
+
+Réaliser le squelette de votre programme html à partir du starter bootstrap et réaliser une colonne de gauche et une colonne de droite,
+puis placez les images et le texte.
+
+DEVELOPPEUR WEB : titre de taille la plus grande en html
+
+SOFT SKILLS : titre de taille après la plus grande en html
+
+Expériences : titre de taille après la plus grande en html
+
+Formations : titre de taille après la plus grande en html
+
+Compétences : titre de taille après la plus grande en html
+
+
+II) Créer un répertoire css dans lequel vous allez créer votre fichier style.css
+
+Réalisez la feuille de style permettant le positionnement des blocs, les marges, la gestion des couleurs et taille des caractère.
+
+couleur colonne de gauche : mediumpurple
+
+couleur colonne de droite : lightseagreen
+
+Titre DEVELOPEUR WEB : 
+marge bas : 40 px
+
+Titre SOFT SKILLS : 
+marge extérieure haut : 40 px
+marge extérieure bas : 20 px
+marge extérieur gaucheet droite : 160 px
+marge intérieure : 5 px
+
+Titre Expériences, Formations, Compétences : 
+marge extérieure gauche, marge droite : 20 px
+marge extérieure bas : 30 px
+marge intérieure : 5 px
+
+Paragraphe colonne de droite :
+marge extérieure gauche : 20 px
+
+
+Paragraphe colonne de gauche :
+taille police de caractère : 15 px
+
+photo_CV_1 : 
+marge extérieur supérieur : 40 px
+
+texte "Texte présentation" après image :
+taille police de caractère : 10 px
+
+image SK : hauteur et largeur : 40 px
+
+image Adresse : hauteur et largeur : 6O px
+
+
+III) Créer un répertoire js dans lequel vous allez créer votre fichier cv.js et le code suivant
+
+1) Quand l'utilisateur clique sur la photo_1_CV.png cela permet automatiquement de faire apparître à la place la photo photo_2_CV.png
+
+2) Quand l'utilisateur clique sur le texte "Apprenant SIMPLON", une fenêtre de prompt lui demande "Quel est votre Prénom et Nom ?", puis ces informations
+remplacent le texte "Apprenant SIMPLON".
+
+3) Quand l'utilisateur clique sur le titre "SOFT SKILLS" le fond passe en rouge.
+
+
+
+
+
